@@ -8,4 +8,5 @@ Date and Time,Product name,Payment - Cash,Payment - Card,Payment - QR,Amount
 07-11-22 20:51,Bluetooth headset,750,0,0,750
 07-11-22 20:53,Smartwatch,0,2500,0,2500
 12-11-2022 14:28:29,Test,2500,300,0,2800
-12-11-2022 16:23:13,test,2500,700,300,3500
+12-11-2022 16:23:13,test,2500,800,300,3600
+12-11-2022 16:49:58,New,25,50,34,109
